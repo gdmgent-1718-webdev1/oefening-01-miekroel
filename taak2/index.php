@@ -11,7 +11,7 @@
 <?php
 $string1 ="hello";
 $string2 ="world";
-echo($string1." ".$string2);
+echo $string1." ".$string2;
 ?>
     
 </body>
