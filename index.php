@@ -10,7 +10,7 @@
 
 <?php
 $naam = "Mieke";
-Echo ("Welkom ".$naam);
+Echo "Welkom ".$naam;
 
 ?>
     

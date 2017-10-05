@@ -11,10 +11,10 @@
 $x = 10;
 $y = 7;
 
-echo "som: ", $x + $y;
-echo "verschil: ", $x - $y;
-echo "vermenigvuldiging: ", $x * $y;
-echo "deling: ", $x / $y;
+echo "som: ", $x + $y, "<br>";
+echo "verschil: ", $x - $y, "<br>";
+echo "vermenigvuldiging: ", $x * $y, "<br>";
+echo "deling: ", $x / $y, "<br>";
 echo "modulo: ", $x % $y;
 
 
